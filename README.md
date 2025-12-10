@@ -68,7 +68,7 @@ python generate_data.py
 
 This will generate 5 CSV files **(customers, products, orders, order_items, payments)** which will be stored in the **data** subfolder that is created automatically.
 
----
+
 ### Step 2: Ingest Data to sqlite
 
 ```bash
@@ -77,7 +77,7 @@ python ingest_db.py
 
 This will ingest the CSV files into SQLite to create SQL tables, which will be further utilized for analysis
 
----
+
 ### Step 3: Data Analysis Using SQL
 
 ```bash
