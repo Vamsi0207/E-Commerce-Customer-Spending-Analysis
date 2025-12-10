@@ -86,6 +86,8 @@ python analyze_sales.py
 
 This will run the SQL query that returns the top 5 spenders among the customers.
 
+---
+
 ### Example Output
 ```text
 --- Top 5 Customers by Total Spending ---
@@ -97,6 +99,9 @@ Jennifer Cole        lisa02@example.net            2              2998.90
 Frederick Tate       perezantonio@example.com      1              2857.60
 
 ```
+
+---
+
 ### Included Example Data
 
 This repository includes:
