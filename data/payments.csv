@@ -1,0 +1,22 @@
+payment_id,order_id,amount,payment_method,payment_date
+1,1,2857.6,PayPal,2024-12-12
+2,2,644.31,Bank Transfer,2025-08-25
+3,3,1576.13,Bank Transfer,2025-10-22
+4,5,1604.17,Credit Card,2025-04-04
+5,6,1298.05,Credit Card,2025-12-05
+6,7,639.97,Bank Transfer,2025-08-23
+7,8,1828.17,Credit Card,2025-01-18
+8,9,2457.75,Credit Card,2025-12-08
+9,10,3316.4,Credit Card,2025-11-15
+10,11,1178.35,Bank Transfer,2025-01-30
+11,12,213.48,Credit Card,2025-03-21
+12,13,93.42,Bank Transfer,2025-01-22
+13,16,305.83,Credit Card,2025-09-23
+14,17,1879.42,PayPal,2025-07-11
+15,18,1678.19,Credit Card,2025-02-07
+16,21,1451.51,Bank Transfer,2025-07-31
+17,23,2785.42,Credit Card,2025-09-13
+18,24,112.66,Bank Transfer,2025-04-21
+19,25,1015.45,Bank Transfer,2025-02-26
+20,27,2866.05,Credit Card,2025-08-12
+21,30,390.0,Bank Transfer,2025-06-23
